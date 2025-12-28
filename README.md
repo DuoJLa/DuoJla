@@ -10,13 +10,6 @@
 
 ---
 
-### 🧑‍💻 联系我
-
--  ![GitHub](https://img.shields.io/badge/-DuoJla-181717?style=flat&logo=github)
-
-
----
-
 ### 📈 活动图表
 
 <div align="center">
