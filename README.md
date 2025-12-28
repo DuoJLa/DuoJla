@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 联系我
 
-- 📫 如何联系我: [![GitHub](https://img.shields.io/badge/-DuoJla-181717?style=flat&logo=github)](https://github.com/DuoJla)
+-  ![GitHub](https://img.shields.io/badge/-DuoJla-181717?style=flat&logo=github)
 
 
 ---
